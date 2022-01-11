@@ -1,0 +1,37 @@
+12/31/2021 10:40:21 AM: INFO: ************ Test 001 Login ************
+12/31/2021 10:40:21 AM: INFO: ************ Verifying Home Page Title ************
+12/31/2021 10:40:27 AM: INFO: ************ Home Page Title Page is Passed ************
+12/31/2021 10:40:29 AM: INFO: ************ Verifying Login Page Title ************
+12/31/2021 10:40:38 AM: INFO: ************ Login Page Title Page is Passed ************
+12/31/2021 10:41:12 AM: INFO: ************ Test 001 Login ************
+12/31/2021 10:41:12 AM: INFO: ************ Verifying Home Page Title ************
+12/31/2021 10:41:14 AM: INFO: ************ Home Page Title Page is Passed ************
+12/31/2021 10:41:16 AM: INFO: ************ Verifying Login Page Title ************
+12/31/2021 10:41:26 AM: INFO: ************ Login Page Title Page is Passed ************
+12/31/2021 12:54:26 PM: INFO: ************ Test 001 Login ************
+12/31/2021 12:54:26 PM: INFO: ************ Verifying Home Page Title ************
+12/31/2021 12:54:28 PM: INFO: ************ Home Page Title Page is Passed ************
+12/31/2021 12:54:30 PM: INFO: ************ Verifying Login Page Title ************
+12/31/2021 12:54:37 PM: INFO: ************ Login Page Title Page is Passed ************
+01/03/2022 04:22:56 PM: INFO: ************ Starting Test 002 Login DDT ************
+01/03/2022 04:22:56 PM: INFO: ************ Verifying Login Page Title ************
+01/03/2022 04:23:09 PM: INFO: **** Passed ****
+01/03/2022 04:26:17 PM: INFO: ************ Starting Test 002 Login DDT ************
+01/03/2022 04:26:17 PM: INFO: ************ Verifying Login Page Title ************
+01/03/2022 04:26:30 PM: INFO: **** Passed ****
+01/03/2022 04:29:01 PM: INFO: ************ Starting Test 002 Login DDT ************
+01/03/2022 04:29:01 PM: INFO: ************ Verifying Login Page Title ************
+01/03/2022 04:29:16 PM: INFO: **** Passed ****
+01/03/2022 04:29:26 PM: INFO: **** Passed ****
+01/03/2022 04:29:33 PM: INFO: **** Passed ****
+01/03/2022 04:29:39 PM: INFO: **** Passed ****
+01/03/2022 04:29:39 PM: INFO: ********* Login DDt Test Case is passed *********
+01/03/2022 04:29:39 PM: INFO: ********* Completed Test 02 DDT Login ***************
+01/03/2022 04:33:11 PM: INFO: ************ Starting Test 002 Login DDT ************
+01/03/2022 04:33:11 PM: INFO: ************ Verifying Login Page Title ************
+01/03/2022 04:33:25 PM: INFO: **** Passed ****
+01/03/2022 04:33:34 PM: INFO: **** Passed ****
+01/03/2022 04:33:40 PM: INFO: **** Passed ****
+01/03/2022 04:33:46 PM: INFO: **** Passed ****
+01/03/2022 04:33:46 PM: INFO: ********* Login DDt Test Case is passed *********
+01/03/2022 04:33:46 PM: INFO: ********* Completed Test 02 DDT Login ***************
