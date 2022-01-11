@@ -23,3 +23,5 @@ class LoginPage:
 
     def clickLogout(self):
         self.driver.find_element(By.LINK_TEXT, self.link_logout_text).click()
+
+
